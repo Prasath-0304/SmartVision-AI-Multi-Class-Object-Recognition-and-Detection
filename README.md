@@ -1,6 +1,6 @@
 # SmartVision AI
 
-SmartVision AI is a computer vision project for multi-class object recognition and object detection. It uses MobileNetV2 for image classification and YOLOv8 for object detection, with an interactive Streamlit web app for image upload and live camera detection.
+SmartVision AI is a Streamlit-based object detection app that uses pretrained YOLOv8n weights to detect selected COCO objects from uploaded images or live camera captures.
 
 ## Features
 
